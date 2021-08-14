@@ -8,4 +8,5 @@
 6. Changed div tag to main 
 7. Changed div tag to section tag
 8. added alt tags within each image tag
- https://lisarozo.github.io/challenge-1/
+9. This is the finishing product of my website https://lisarozo.github.io/challenge-1/
+10. Screenshot of my website ![screenshot](assets/images/Horiseon.png)
